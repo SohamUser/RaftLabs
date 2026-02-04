@@ -48,11 +48,10 @@ Typical usage (Windows):
 
 ```powershell
 cd pyscript
-python clean_startups.py
-python main.py     # or run other scripts like main2.py / main3.py
+python main3.py
 ```
 
-These scripts read and write JSON files in `pyscript/` and `pyscript/data/` and can be used to generate the `data/startups.json` consumed by the Next.js app.
+These scripts read and write JSON files in `pyscript/data/` and can be used to generate the `data/startups.json` consumed by the Next.js app.
 
 **How the app reads data**
 
