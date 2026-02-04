@@ -55,16 +55,16 @@ These scripts read and write JSON files in `pyscript/data/` and can be used to g
 
 **How the app reads data**
 
-- The app loads startup data from [raftslab-assignment/data/startups.json](raftslab-assignment/data/startups.json) via helper functions in [raftslab-assignment/lib/startups.ts](raftslab-assignment/lib/startups.ts).
-- Add or update entries in the JSON file to modify the site content. New items should conform to the shape defined in [raftslab-assignment/types/startup.ts](raftslab-assignment/types/startup.ts).
+- The app loads startup data from [raftslab-assignment/data/startups.json](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/data/startups.json) via helper functions in [raftslab-assignment/lib/startups.ts](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/lib/startups.ts).
+- Add or update entries in the JSON file to modify the site content. New items should conform to the shape defined in [raftslab-assignment/types/startup.ts](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/types/startup.ts).
 
 **Development notes**
 
 - Pages and components living in the `app/` directory use the app-router conventions (server components, TSX).
 - Important UI files:
-  - [raftslab-assignment/app/startups/StartupsList.tsx](raftslab-assignment/app/startups/StartupsList.tsx)
-  - [raftslab-assignment/app/startups/[slug]/page.tsx](raftslab-assignment/app/startups/[slug]/page.tsx)
-  - [raftslab-assignment/app/startups/[slug]/ShareButton.tsx](raftslab-assignment/app/startups/[slug]/ShareButton.tsx)
+  - [raftslab-assignment/app/startups/StartupsList.tsx](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/app/startups/StartupsList.tsx)
+  - [raftslab-assignment/app/startups/[slug]/page.tsx](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/app/startups/%5Bslug%5D/page.tsx)
+  - [raftslab-assignment/app/startups/[slug]/ShareButton.tsx](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/app/startups/%5Bslug%5D/ShareButton.tsx)
 
 **Tips**
 
