@@ -12,11 +12,11 @@ Lightweight Next.js app and companion Python scripts for exploring and preparing
 - Type-safe data model via TypeScript types in `types/`.
 
 **Repository layout**
-- **App:** [raftslab-assignment/app/startups/page.tsx](raftslab-assignment/app/startups/page.tsx) and related components in [raftslab-assignment/app/startups/](raftslab-assignment/app/startups/)
-- **Data:** [raftslab-assignment/data/startups.json](raftslab-assignment/data/startups.json)
-- **Helpers:** [raftslab-assignment/lib/startups.ts](raftslab-assignment/lib/startups.ts)
-- **Types:** [raftslab-assignment/types/startup.ts](raftslab-assignment/types/startup.ts)
-- **Python tools:** [pyscript/](pyscript/) contains cleaning and small processing scripts and example JSON files.
+- **App:** [raftslab-assignment/app/startups/page.tsx](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/app/startups/page.tsx) and related components in [raftslab-assignment/app/startups/](https://github.com/SohamUser/RaftLabs/tree/main/raftslab-assignment/app/startups)
+- **Data:** [raftslab-assignment/data/startups.json](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/data/startups.json)
+- **Helpers:** [raftslab-assignment/lib/startups.ts](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/lib/startups.ts)
+- **Types:** [raftslab-assignment/types/startup.ts](https://github.com/SohamUser/RaftLabs/blob/main/raftslab-assignment/types/startup.ts)
+- **Python tools:** [pyscript/](https://github.com/SohamUser/RaftLabs/tree/main/pyscript) contains cleaning and small processing scripts and example JSON files.
 
 **Getting started**
 
