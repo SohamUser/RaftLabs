@@ -74,7 +74,3 @@ These scripts read and write JSON files in `pyscript/data/` and can be used to g
 **Contributing**
 
 Open issues or create pull requests. Keep changes focused and include small, testable commits.
-
-**License**
-
-No license included. Add a LICENSE file if you want to clarify reuse terms.
