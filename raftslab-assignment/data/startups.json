@@ -1,0 +1,5025 @@
+[
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "homelane",
+    "name": "HomeLane",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1302872446236672000%2F34D7XEe7.jpg&signature=260a22a775d39141d122298df6b80d0c",
+    "description": "HomeLane provides homeowners with personalized and customized home designs.",
+    "sector": [
+      "Interior Design",
+      "Home Decor"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$50M Series E in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.homelane.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "gimbooks",
+    "name": "GimBooks",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2F5d3bd17015fd483b4aee222a1900e813a53b064d.jpeg&signature=e5de5a78645fbefe29b475bb242eede0",
+    "description": "GimBooks offers a cloud-based and mobile-first bookkeeping and business management platform.",
+    "sector": [
+      "FinTech",
+      "Accounting",
+      "SaaS"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$0 Seed in 2021",
+      "$16M valuation"
+    ],
+    "hq": "Raipur, India",
+    "website": "http://gimbooks.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "advantage-club",
+    "name": "Advantage Club",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2F76d4d7334f977336c2815755cc07bcd4bf60b14e.jpeg&signature=3122ff5d011279c9d1459ff3edd6bcf4",
+    "description": "At Advantage Club we create mutually rewarding relationships between employers and businesses by managing corporate discounts.",
+    "sector": [
+      "Recruiting"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$2M Series A in 2021"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.advantageclub.in?utm_source=topstartups.io"
+  },
+  {
+    "slug": "jupiter-money",
+    "name": "Jupiter Money",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/hdib1ehp46qq0pdiluge",
+    "description": "Jupiter is a provider of digital retail banking services to help users track their expenses.",
+    "sector": [
+      "FinTech",
+      "Banking"
+    ],
+    "funding": [
+      "Sequoia",
+      "$45M Series B in 2021",
+      "$711M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://jupiter.money/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "curefit",
+    "name": "CureFit",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2F7747086cbcb8ef1ad98a4bbe0ebaf186fcf315ac.jpeg&signature=9de1a970381010f41afa0453caffad40",
+    "description": "cure.fit is a health and fitness company offering digital and offline experiences across fitness, nutrition, and mental well-being.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Healthcare",
+      "Fitness"
+    ],
+    "funding": [
+      "Accel",
+      "$145M Series F in 2021",
+      "$1.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.curefit.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "portea-medical",
+    "name": "Portea Medical",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166605527721435138%2FNbBcgh3N.png&signature=0ad5543e4278c71c3dc1767d8fdb5496",
+    "description": "Portea Medical is the largest and fastest growing provider of in-home medical care in India today with a 24-city network.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $75M in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.portea.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "axio-biosolutions",
+    "name": "Axio Biosolutions",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F160824890747687%2Fpicture%3Ftype%3Dlarge&signature=bee083c8b41a5c027e3c83ee2446ee91",
+    "description": "Axio is a medtech R&D and Manufacturing Company focused on Advanced surgical and woundcare products based on novel biomaterials.",
+    "sector": [
+      "Manufacturing",
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "funding": [
+      "Accel",
+      "$7M Series B in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://axiobio.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "browserstack",
+    "name": "BrowserStack",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F451968255846928384%2F0pyDMTyp.png&signature=5e5f94520b96c25dd509fc20795de2eb",
+    "description": "BrowserStack is a software testing platform powering over two million tests every day across 15 global data centers.",
+    "sector": [
+      "SaaS",
+      "Testing",
+      "Developer Tools",
+      "Enterprise Software"
+    ],
+    "funding": [
+      "Accel",
+      "$250M Series B in 2021",
+      "$4.0B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.browserstack.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "ninjacart",
+    "name": "Ninjacart",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1045238245011861504%2FvNqzs-Kg.jpg&signature=7b4d7ead90ef4fe35c4238f956bb9138",
+    "description": "Ninjacart is India's Largest agri marketing platform, solving one of the toughest supply chain problems through technology.",
+    "sector": [
+      "Marketplaces",
+      "Agriculture",
+      "Marketing"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $190M in 2021",
+      "$815M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://ninjacart.in/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "ola",
+    "name": "Ola",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1039032896441528320%2Fpkc-Gz6Z.jpg&signature=a2c3a781c4516b1197063753f93f1919",
+    "description": "India's largest cab network.",
+    "sector": [
+      "Transportation",
+      "Ride Sharing"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $3B in 2021",
+      "$7.3B valuation"
+    ],
+    "hq": "Kormangala, India",
+    "website": "http://www.olacabs.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "playment",
+    "name": "Playment",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F971735348618280960%2Fl0HG6qdj.jpg&signature=b5df41c5267b7efb23ac3dc2d803f86d",
+    "description": "We are fully-managed solution offering training data for computer vision, machine learning and human-in-the-loop for AI at scale.",
+    "sector": [
+      "Data Science",
+      "Artificial Intelligence",
+      "Autonomous Vehicles"
+    ],
+    "funding": [
+      "Y Combinator",
+      "Raised $2M in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://playment.io/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "meesho",
+    "name": "Meesho",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1405138785264816133%2FTiRMlkYS.jpg&signature=451e189084ac250eec8dc8fd52bae53a",
+    "description": "Start your free online shop in seconds",
+    "sector": [
+      "E-Commerce"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$570M Series F in 2021",
+      "$4.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://meesho.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cashfree",
+    "name": "CashFree",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/xc0vjig2ayhte7rmr52n",
+    "description": "Cashfree enables businesses in India to collect payments and make payouts.",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$35M Series C in 2021",
+      "$200M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://gocashfree.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fampay-india",
+    "name": "FamPay India",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1152964123132604418%2F5ofWQLCc.png&signature=b67125df101f43be4158681ffcd9d1fd",
+    "description": "Driving the smart generation from cash to digital through India's first payments app for teenagers",
+    "sector": [
+      "FinTech",
+      "Apps"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$38M Series A in 2021",
+      "$350M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://fampay.in/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pharmeasy",
+    "name": "PharmEasy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1045540421097537538%2FtPAXwzZT.jpg&signature=3d6142bddcb8bdc546f0df415129c30e",
+    "description": "PharmEasy offers teleconsultation, medicine deliveries, and diagnostic test sample collection.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Bessemer",
+      "$339M Series F in 2021",
+      "$5.6B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.pharmeasy.in?utm_source=topstartups.io"
+  },
+  {
+    "slug": "vahan",
+    "name": "Vahan",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/mw4idrcpppq0rwpdueyk",
+    "description": "We use Artificial Intelligence to bring job services inside WhatsApp",
+    "sector": [
+      "Messaging",
+      "Recruiting",
+      "Artificial Intelligence"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "Founders Fund",
+      "Y Combinator",
+      "$8M Series A in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://vahan.ai?utm_source=topstartups.io"
+  },
+  {
+    "slug": "oyo-rooms",
+    "name": "OYO Rooms",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1336945719781945344%2FWyBChLdY.jpg&signature=4fbdc285368ae59b635cb0d1a113a6bf",
+    "description": "OYO is a global travel tech company that connects its patrons and guests.",
+    "sector": [
+      "Travel",
+      "Hospitality"
+    ],
+    "funding": [
+      "Sequoia",
+      "$3B Series F in 2021",
+      "$8.0B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.oyorooms.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "ixigo.com",
+    "name": "ixigo.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1251106093251457026%2FFwaygE74.jpg&signature=01e72ab190916eb36bac1a18ba1718f1",
+    "description": "ixigo.com is India’s online travel portal that simplifies all your trips.",
+    "sector": [
+      "Travel"
+    ],
+    "funding": [
+      "Sequoia",
+      "Raised $36M in 2021"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.ixigo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "oneassist",
+    "name": "OneAssist",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F836122023126425600%2FPr5a2Y1Q.jpg&signature=198d52c28e7753cee6e352469b629750",
+    "description": "We’re India’s first comprehensive mobile, wallet and data protection service.",
+    "sector": [
+      "SaaS",
+      "Cybersecurity"
+    ],
+    "funding": [
+      "Sequoia",
+      "$2M Series C in 2021",
+      "$149M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://oneassist.in/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "mobikwik",
+    "name": "MobiKwik",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1277570360158810113%2F5gvxf4nP.jpg&signature=b7473f21eeb798d654e8d1e779b75e73",
+    "description": "MobiKwik is India’s leading fintech platform, operating businesses in consumer payments, payment gateway, and financial services.",
+    "sector": [
+      "Mobile",
+      "FinTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$20M Series G in 2021",
+      "$1.0B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.mobikwik.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cleartax",
+    "name": "ClearTax",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1278594269276549120%2FI0s2rQbT.jpg&signature=c0bcdf97add3ece98c9f2d4ed116d340",
+    "description": "ClearTax India helps individuals prepare their Income Tax Return online.",
+    "sector": [
+      "FinTech",
+      "Accounting"
+    ],
+    "funding": [
+      "Sequoia",
+      "Founders Fund",
+      "$75M Series C in 2021",
+      "$700M valuation"
+    ],
+    "hq": "New Delhi, India",
+    "website": "http://www.cleartax.in?utm_source=topstartups.io"
+  },
+  {
+    "slug": "turtlemint",
+    "name": "Turtlemint",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F869451243919253504%2FEHgm0NMN.jpg&signature=ab0aa1e85519fd2d780a5eddb9f0f939",
+    "description": "An online insurance platform that aims to ease the process of buying and managing insurance.",
+    "sector": [
+      "FinTech",
+      "Healthcare Insurance"
+    ],
+    "funding": [
+      "Sequoia",
+      "$46M Series D in 2021",
+      "$176M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.turtlemint.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "grofers",
+    "name": "Grofers",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1392073956744601603%2FDKia-fi5.jpg&signature=09f90c7d294ea3f6df5e1bc134173c3a",
+    "description": "Grofers is a low-price online supermarket that provides grocery delivery.",
+    "sector": [
+      "Groceries",
+      "Delivery"
+    ],
+    "funding": [
+      "Sequoia",
+      "$120M Series F in 2021",
+      "$1.0B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.grofers.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pocket-aces",
+    "name": "Pocket Aces",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F928556381635932161%2FZhT7hb9I.jpg&signature=12b6ab91855d8d6ddf1253cf4035abf7",
+    "description": "Pocket Aces is a digital entertainment company focused on mobile video.",
+    "sector": [
+      "Media",
+      "Consumer",
+      "Entertainment"
+    ],
+    "funding": [
+      "Sequoia",
+      "Raised $2M in 2021",
+      "$40M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://pocketaces.in/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "capital-float",
+    "name": "Capital Float",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F639352722731347969%2FGO_CJmsq.png&signature=89b63fefb9ae51ca4088380ec48a84b8",
+    "description": "Capital Float is an online platform that provides working capital finance to SMEs.",
+    "sector": [
+      "FinTech",
+      "Small & Medium Businesses"
+    ],
+    "funding": [
+      "Sequoia",
+      "$4M Series D in 2021",
+      "$202M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.capitalfloat.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "unacademy",
+    "name": "Unacademy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1054978071110078464%2FydDVP1mx.jpg&signature=7535883ea928760e8b7516e169bb9ec2",
+    "description": "Unacademy is an online learning platform that provides educational content such as video lectures and examinations.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$440M Series H in 2021",
+      "$3.4B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.unacademy.in?utm_source=topstartups.io"
+  },
+  {
+    "slug": "juspay",
+    "name": "JUSPAY",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1195302234931650561%2Ff7RJGtsu.png&signature=37a409c0da6019cb224175608aa2f805",
+    "description": "Juspay is a developer of an online platform designed to be used for mobile-based payments.",
+    "sector": [
+      "FinTech",
+      "Mobile Payments"
+    ],
+    "funding": [
+      "Accel",
+      "$27M Series B in 2020",
+      "$400M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://juspay.in/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fabhotels",
+    "name": "FabHotels",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F998807533899808768%2FSBSaSnQi.jpg&signature=f8a4c963935864dad6ae09f844fa5462",
+    "description": "Fabhotels is the online aggregator for hotel rooms. It aims to provide standardized services at economical budgets.",
+    "sector": [
+      "Travel",
+      "Hotels Aggregator"
+    ],
+    "funding": [
+      "Accel",
+      "$41M Series B in 2020",
+      "$120M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.fabhotels.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "glowroad",
+    "name": "GlowRoad",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F923077490234474496%2FrMZ2VaLZ.jpg&signature=1f70580f924999dadc080e76a973a98a",
+    "description": "Most trusted website creating flexible earning opportunities for women and a social selling channel for small businesseswww.GlowRoad.com",
+    "sector": [
+      "E-Commerce",
+      "Retail"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $7M in 2020",
+      "$75M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.GlowRoad.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "mihup",
+    "name": "Mihup",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F637853752967374%2Fpicture%3Ftype%3Dlarge&signature=513e57015994e8b2bc4be75f7221cb3f",
+    "description": "Intelligence-based personal mobile assistant app",
+    "sector": [
+      "Artificial Intelligence",
+      "Speech Recognition"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series A in 2020"
+    ],
+    "hq": "Kolkata, India",
+    "website": "http://www.mihup.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cureskin",
+    "name": "Cureskin",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1215148334043631617%2FwGdzd_Fn.png&signature=2f93b1b9a01836e6ab353f24a7206161",
+    "description": "Cureskin is an AI powered application that provides derma care through mobile devices.",
+    "sector": [
+      "Skin Care",
+      "Artificial Intelligence"
+    ],
+    "funding": [
+      "Y Combinator",
+      "Raised $500K in 2020"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://cureskin.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "groww",
+    "name": "Groww",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1165863496233259008%2Fa1rVuKQQ.jpg&signature=0fb2ae4a0c07dbd16b186f63c8a9c483",
+    "description": "Groww is an investment platform that offers a new way of investing with stockbroking and direct mutual funds.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$36M Series C in 2020"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://groww.in?utm_source=topstartups.io"
+  },
+  {
+    "slug": "godutch",
+    "name": "goDutch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1248646342051655689%2FUBn2FF8l.jpg&signature=b7f0094e522158c085755eb7224afe5b",
+    "description": "GoDutch is a fintech application that powers group payments.",
+    "sector": [
+      "FinTech",
+      "Split Payments",
+      "App"
+    ],
+    "funding": [
+      "Y Combinator",
+      "Raised $2M in 2020"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://godutchpay.in/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "infeedo",
+    "name": "inFeedo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1187657865755951104%2FGIB6z_il.png&signature=9c898de7fa07dcf6b5ec9602fefe4e6a",
+    "description": "InFeedo is a SaaS-based analytics company that develops an employee engagement platform for enterprises.",
+    "sector": [
+      "SaaS",
+      "Employee Engagement",
+      "Analytics",
+      "Enterprise Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$4M Series A in 2020"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.infeedo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "wareiq",
+    "name": "WareIQ",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1229318832444981248%2FNXsScY_S.jpg&signature=10c5920d5895327189eb8cb435a425e9",
+    "description": "WareIQ offers Amazon-like next-day delivery for eCommerce companies in India",
+    "sector": [
+      "Logistics",
+      "Supply Chain",
+      "Delivery"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$2M Seed in 2020"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.wareiq.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "traveltriangle",
+    "name": "TravelTriangle",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1078211444041166848%2FAEdWhRED.jpg&signature=074332821268868ace0e5bdfda50ad9b",
+    "description": "TravelTriangle enables travel enthusiasts to reserve a personalized holiday plan with a local travel agent.",
+    "sector": [
+      "Travel"
+    ],
+    "funding": [
+      "Bessemer",
+      "$48M Series D in 2020",
+      "$94M valuation"
+    ],
+    "hq": "New Delhi, India",
+    "website": "http://traveltriangle.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "docsapp",
+    "name": "DocsApp",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1153274663788662787%2F9PmuH0Fo.png&signature=fcc3982df68149cae1e0349a7198a652",
+    "description": "DocsApp is an online doctor consultation platform that provides consultation for patients of all age groups in several key disciplines.",
+    "sector": [
+      "Healthcare"
+    ],
+    "funding": [
+      "Bessemer",
+      "$20M Series B in 2020",
+      "$150M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.docsapp.in/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "zoomcar",
+    "name": "ZoomCar",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F940829798082990081%2FP5rNiS0J.jpg&signature=796d2880a067b882331663855acb7b6f",
+    "description": "India's only car rental company focusing exclusively on self-drive. Zoom off in Bangalore and Pune!",
+    "sector": [
+      "Car Rental"
+    ],
+    "funding": [
+      "Sequoia",
+      "$122M Series D in 2020"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.zoomcar.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "practo",
+    "name": "Practo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1410649979501178880%2FBKiCfvAF.jpg&signature=04c0077751c1103eeb662705a45535f5",
+    "description": "We help you find the best doctors for your problems, and help doctors manage their practice.",
+    "sector": [
+      "Healthcare"
+    ],
+    "funding": [
+      "Sequoia",
+      "$32M Series D in 2020",
+      "$300M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.practo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rebel-foods",
+    "name": "Rebel Foods",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1278950895368015878%2FBtdmhgNW.jpg&signature=1bbc1c1c6d23691e6ab4f43475e9d816",
+    "description": "Rebel Foods Services is a food delivery platform that provides delivery services at your doorstep",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Sequoia",
+      "$175M Series E in 2020",
+      "$1.0B valuation"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.faasos.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "medgenome",
+    "name": "MedGenome",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/qve6a9r60rajwpdkpuad",
+    "description": "MedGenome develops a genomics-based diagnostics and research solution for healthcare providers to understand the genetic basis of diseases.",
+    "sector": [
+      "Healthcare",
+      "Biotech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$55M Series C in 2020",
+      "$95M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.medgenome.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "awfis-space-solution",
+    "name": "Awfis Space Solution",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1260868429667581953%2FllhJtHAx.jpg&signature=f073684cf823a0c2d99be222188c8a61",
+    "description": "Awfis provides inspiring work spaces, including cabins, desks, and meeting rooms.",
+    "sector": [
+      "Real Estate",
+      "Co-Working"
+    ],
+    "funding": [
+      "Sequoia",
+      "$30M Series D in 2020",
+      "$390M valuation"
+    ],
+    "hq": "New Delhi, India",
+    "website": "http://www.awfis.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "epifi",
+    "name": "epiFi",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/fz38juj9xwmpavxcuban",
+    "description": "India's first neo bank for salaried millennials.",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$13M Seed in 2020",
+      "$165M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://epifi.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bira-91",
+    "name": "Bira 91",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1152174196534808576%2FSrCBprir.jpg&signature=905d7f24f4d3f06b4126bdb7e79437fd",
+    "description": "Flavorful beers for the new world",
+    "sector": [
+      "Food & Drinks",
+      "WineAndSpirits",
+      "Beer"
+    ],
+    "funding": [
+      "Sequoia",
+      "$30M Series C in 2020",
+      "$300M valuation"
+    ],
+    "hq": "New Delhi, India",
+    "website": "http://www.bira91.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "eduvanz",
+    "name": "Eduvanz",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F988480958461493248%2FyQ3-Tfe9.jpg&signature=bcc1ad7d68395b6d07f754175125c691",
+    "description": "Eduvanz is a fintech Non-banking Finance Company for students seeking financial assistance.",
+    "sector": [
+      "FinTech",
+      "Lending",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$14M Series B in 2020",
+      "$70M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://eduvanz.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bookmyshow",
+    "name": "BookMyShow",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1084718695836987392%2FpT8dY4C-.jpg&signature=e5541299affdaf812c9456b2c2a87d01",
+    "description": "India's Largest Entertainment Central Movies tickets, Concert tickets, Events tickets, Theatre tickets and Sports tickets FB on our site",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Auctions",
+      "Events",
+      "Ticketing"
+    ],
+    "funding": [
+      "Accel",
+      "$224M Series D in 2019",
+      "$1.0B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://in.bookmyshow.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "healthkart",
+    "name": "HealthKart",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1237631866087198721%2FgbYO45g4.png&signature=83ea387f29dc44264251b541e281615f",
+    "description": "HealthKart offers fitness products, services and community to help consumers achieve their fitness goals.",
+    "sector": [
+      "E-Commerce",
+      "Fitness"
+    ],
+    "funding": [
+      "Sequoia",
+      "$25M Series G in 2019",
+      "$300M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.healthkart.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "power2sme",
+    "name": "Power2SME",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F902802054178947072%2FP47cM-Lg.jpg&signature=a995fcc058ec307026d2935bb34544d9",
+    "description": "Power2SME is a group buying site that provides inks, steel, polymers, paints and chemicals for small and medium enterprises.",
+    "sector": [
+      "Enterprise Software",
+      "Small & Medium Businesses",
+      "E-Commerce"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $67M in 2018"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.Power2SME.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "hotelogix",
+    "name": "Hotelogix",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1103564406825279489%2FNHPDC5gJ.png&signature=db3f2bd651ffe2f31a8c19dcdf3632a8",
+    "description": "Hotelogix offers a hotel management system for independent hotels, resorts, and other hospitality setups.",
+    "sector": [
+      "Travel",
+      "Hotels",
+      "SaaS"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $8M in 2018"
+    ],
+    "hq": "Noida, India",
+    "website": "http://www.hotelogix.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "drivezy",
+    "name": "Drivezy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1082250170614476803%2F_e7Cvhbs.jpg&signature=128902a67fa3e2f4a162977a0bde6cc9",
+    "description": "A self drive car rental company, which spoils you with its luxurious fleet of vehicles.",
+    "sector": [
+      "Transportation",
+      "Vehicles",
+      "Rental"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$36M Series B in 2018",
+      "$400M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://drivezy.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "credy",
+    "name": "Credy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F824908880064835584%2FMCzJ9KG0.jpg&signature=af331784a64244c1579bca8759b9ecbe",
+    "description": "Credy is a full stack lending company for India. Credy offers a mobile credit line with customization for specific end use.",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "Y Combinator",
+      "$1M Seed in 2018"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.credy.in?utm_source=topstartups.io"
+  },
+  {
+    "slug": "girnarsoft",
+    "name": "GirnarSoft",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F852131229415636992%2FJQsdAi_D.jpg&signature=3c025542c15885305fabf6df4780afe4",
+    "description": "GirnarSoft is a business value focused IT company working on offshore and outsourced software development.",
+    "sector": [
+      "Enterprise Software",
+      "Developer Tools"
+    ],
+    "funding": [
+      "Sequoia",
+      "$80M Series D in 2018"
+    ],
+    "hq": "Jaipur, India",
+    "website": "http://www.girnarsez.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "wicked-ride",
+    "name": "Wicked Ride",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F714680144028377089%2FynNoRPl8.jpg&signature=38edc39fad4b9ac6abe4130ab678a55b",
+    "description": "First luxury bike rental company in India. Rent Harley Davidson, Triumph and Royal Enfield bikes.",
+    "sector": [
+      "Rental"
+    ],
+    "funding": [
+      "Sequoia",
+      "$100M Series D in 2018",
+      "$450M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://wickedride.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "factordaily",
+    "name": "FactorDaily",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F707157315816849408%2Fzn0Vgcdi.jpg&signature=b89a3fcbb10852219acd6172f170c599",
+    "description": "A chronicler of change as technology goes mainstream in India.",
+    "sector": [
+      "Media"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $1M in 2016"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.factordaily.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "kredx",
+    "name": "KredX",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F695605682771365889%2FmGq81I9C.png&signature=9069a0e04818be8e637d24f4189bcbfa",
+    "description": "KredX is an online invoice discounting platform where business owners get an opportunity to raise funds for their working capital needs.",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "$7M Series A in 2016",
+      "$26M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.kredx.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F791997707392909313%2FqlQ2NI6o.jpg&signature=5d9ebef5682696e271e4954ee1fc28b7",
+    "description": "RentoMojo is an online rental platform that provides furniture, appliances and electronics (mobiles, laptops) on a monthly rental basis.",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oudnhhomorxnikuecb4a",
+    "description": "MyGlamm is a direct-to-consumer beauty brand that offers online beauty products marketplace.",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F840478411013283841%2FI6j8ET_i.jpg&signature=715a8678a2f615dcfa1a6ca51a5c64a0",
+    "description": "Cutting through the noise & clutter with a sharp focus on #investing. No Jargon. No Bias. No Fees.",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1220628636677525506%2FAk5Jnuzv.png&signature=bc22c06af706f45fc9c1d7e48763c63e",
+    "description": "Lokal is a news app that provides local news, job ads, matrimonial ads and other classifieds services.",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1212724930472595456%2Fedje_zWu.jpg&signature=c29b27ebe6e60da8d81639bb9c27eaf8",
+    "description": "CoinSwitch is a cryptocurrency exchange platform",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "logo": "",
+    "description": "",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/pco5mmk7awhnblqnjs6e",
+    "description": "India's leading payment solutions company",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1166990675788718080%2FaSF9YUG4.jpg&signature=abacc6696e25b623ccb98b1d83e095e1",
+    "description": "Online gold loans at your doorstep",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F725691110199296001%2FVSMvmNjs.jpg&signature=f8bb1d63322bda48c0c3cf10ab1cb62c",
+    "description": "Making kids great at math.",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Fcf6cb403c7bfa37418d5c3e357da16871cca9a54.jpeg&signature=cddbb3f601624d9a4fcf5583b1578e95",
+    "description": "Fashinza is a B2B manufacturing marketplace that solves apparel/fashion supply chain challenges.",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zr94wqicesqhsfbjwxgx",
+    "description": "Loop Health is bringing ease and choice to patients seeking major medical treatments.",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Findex.co%2Fuploads%2Flogos%2Feec6580eeac4567827f91f370fa244e1139ee8f8.jpeg&signature=b6fd0101819f676886f874335195ae05",
+    "description": "BYJU’s is an edtech company that is reinventing how students learn through its learning app.",
+    "sector": [
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io"
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F378800000702437527%2F3132abe1793532025a1df01215fd87c3.png&signature=e931a9e8d8555027d9b20e3667ff2556",
+    "description": "RealTime Analytics and Decisioning Platform. Made in India",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1196320607815655426%2FHBCMJ6D0.jpg&signature=cad5dc38c9877fddfd8097704280963e",
+    "description": "Design, decorate and furnish your dream home.",
+    "sector": [
+      "E-Commerce",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "logo": "https://cdn.skillenza.com/files/45aa07e5-5b0b-4fee-9cea-2009d437cea4/increff_logo.png",
+    "description": "Increff is a business partner to Fashion and Lifestyle brands and retailers to increase sales and inventory efficiency.",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1267409631246073856%2F6AvQ5Za9.jpg&signature=580c8d897cb6351e287e9dd23af669a2",
+    "description": "Food,Beers,Desserts. Delivered super-fast",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fgraph.facebook.com%2Fv2.8%2F158294897592584%2Fpicture%3Ftype%3Dlarge&signature=7082de71815ea6917895672bb08c8e67",
+    "description": "Bluestone is an online retailer where users can purchase a variety of jewelry.",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "logo": "https://img-cdn.tnwcdn.com/image?url=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F1271385506505347074%2FQIc_CCEg.jpg&signature=601a38bb9e57002991798f7bbe9592f4",
+    "description": "Modern payment gateway for India with simple pricing, easy integration and awesome support",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io"
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "logo": "https://images.crunchbase.com/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/nfhkqjstggenitsovlc2",
+    "description": "Disrupting Elective Surgery Procedures",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io"
+  }
+]
