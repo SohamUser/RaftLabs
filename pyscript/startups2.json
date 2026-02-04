@@ -1,0 +1,3206 @@
+[
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "sector": [
+      "FinTech",
+      "",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "sector": [
+      "",
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "sector": [
+      "E-Commerce",
+      "",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "",
+      "Software",
+      ""
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "homelane",
+    "name": "HomeLane",
+    "sector": [
+      "Interior Design",
+      "Home Decor"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$50M Series E in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.homelane.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "gimbooks",
+    "name": "GimBooks",
+    "sector": [
+      "FinTech",
+      "Accounting",
+      "SaaS"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$0 Seed in 2021",
+      "$16M valuation"
+    ],
+    "hq": "Raipur, India",
+    "website": "http://gimbooks.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "advantage-club",
+    "name": "Advantage Club",
+    "sector": [
+      "Recruiting"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$2M Series A in 2021"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.advantageclub.in?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "jupiter-money",
+    "name": "Jupiter Money",
+    "sector": [
+      "FinTech",
+      "Banking"
+    ],
+    "funding": [
+      "Sequoia",
+      "$45M Series B in 2021",
+      "$711M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://jupiter.money/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "curefit",
+    "name": "CureFit",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Healthcare",
+      "Fitness",
+      ""
+    ],
+    "funding": [
+      "Accel",
+      "$145M Series F in 2021",
+      "$1.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.curefit.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "portea-medical",
+    "name": "Portea Medical",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $75M in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.portea.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "axio-biosolutions",
+    "name": "Axio Biosolutions",
+    "sector": [
+      "Manufacturing",
+      "Healthcare",
+      "Medical Devices"
+    ],
+    "funding": [
+      "Accel",
+      "$7M Series B in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://axiobio.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "browserstack",
+    "name": "BrowserStack",
+    "sector": [
+      "SaaS",
+      "Testing",
+      "Developer Tools",
+      "Enterprise Software"
+    ],
+    "funding": [
+      "Accel",
+      "$250M Series B in 2021",
+      "$4.0B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.browserstack.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "ninjacart",
+    "name": "Ninjacart",
+    "sector": [
+      "Marketplaces",
+      "Agriculture",
+      "Marketing"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $190M in 2021",
+      "$815M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://ninjacart.in/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "ola",
+    "name": "Ola",
+    "sector": [
+      "Transportation",
+      "",
+      "Ride Sharing"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $3B in 2021",
+      "$7.3B valuation"
+    ],
+    "hq": "Kormangala, India",
+    "website": "http://www.olacabs.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "playment",
+    "name": "Playment",
+    "sector": [
+      "Data Science",
+      "Artificial Intelligence",
+      "Autonomous Vehicles"
+    ],
+    "funding": [
+      "Y Combinator",
+      "Raised $2M in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://playment.io/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "meesho",
+    "name": "Meesho",
+    "sector": [
+      "E-Commerce"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$570M Series F in 2021",
+      "$4.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://meesho.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cashfree",
+    "name": "CashFree",
+    "sector": [
+      "FinTech",
+      "Payments",
+      ""
+    ],
+    "funding": [
+      "Y Combinator",
+      "$35M Series C in 2021",
+      "$200M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://gocashfree.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fampay-india",
+    "name": "FamPay India",
+    "sector": [
+      "FinTech",
+      "Apps",
+      ""
+    ],
+    "funding": [
+      "Y Combinator",
+      "$38M Series A in 2021",
+      "$350M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://fampay.in/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "pharmeasy",
+    "name": "PharmEasy",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Bessemer",
+      "$339M Series F in 2021",
+      "$5.6B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.pharmeasy.in?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "vahan",
+    "name": "Vahan",
+    "sector": [
+      "",
+      "",
+      "Messaging",
+      "Recruiting",
+      "Artificial Intelligence"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "Founders Fund",
+      "Y Combinator",
+      "$8M Series A in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://vahan.ai?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "oyo-rooms",
+    "name": "OYO Rooms",
+    "sector": [
+      "Travel",
+      "Hospitality"
+    ],
+    "funding": [
+      "Sequoia",
+      "$3B Series F in 2021",
+      "$8.0B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.oyorooms.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "ixigo.com",
+    "name": "ixigo.com",
+    "sector": [
+      "Travel"
+    ],
+    "funding": [
+      "Sequoia",
+      "Raised $36M in 2021"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.ixigo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "oneassist",
+    "name": "OneAssist",
+    "sector": [
+      "",
+      "SaaS",
+      "Cybersecurity",
+      ""
+    ],
+    "funding": [
+      "Sequoia",
+      "$2M Series C in 2021",
+      "$149M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://oneassist.in/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "mobikwik",
+    "name": "MobiKwik",
+    "sector": [
+      "Mobile",
+      "FinTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$20M Series G in 2021",
+      "$1.0B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.mobikwik.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cleartax",
+    "name": "ClearTax",
+    "sector": [
+      "FinTech",
+      "Accounting"
+    ],
+    "funding": [
+      "Sequoia",
+      "Founders Fund",
+      "$75M Series C in 2021",
+      "$700M valuation"
+    ],
+    "hq": "New Delhi, India",
+    "website": "http://www.cleartax.in?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "turtlemint",
+    "name": "Turtlemint",
+    "sector": [
+      "FinTech",
+      "",
+      "Healthcare Insurance"
+    ],
+    "funding": [
+      "Sequoia",
+      "$46M Series D in 2021",
+      "$176M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.turtlemint.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "grofers",
+    "name": "Grofers",
+    "sector": [
+      "Groceries",
+      "Delivery"
+    ],
+    "funding": [
+      "Sequoia",
+      "$120M Series F in 2021",
+      "$1.0B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.grofers.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "pocket-aces",
+    "name": "Pocket Aces",
+    "sector": [
+      "Media",
+      "Consumer",
+      "Entertainment"
+    ],
+    "funding": [
+      "Sequoia",
+      "Raised $2M in 2021",
+      "$40M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://pocketaces.in/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "capital-float",
+    "name": "Capital Float",
+    "sector": [
+      "FinTech",
+      "",
+      "Small & Medium Businesses"
+    ],
+    "funding": [
+      "Sequoia",
+      "$4M Series D in 2021",
+      "$202M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.capitalfloat.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "unacademy",
+    "name": "Unacademy",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$440M Series H in 2021",
+      "$3.4B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.unacademy.in?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "juspay",
+    "name": "JUSPAY",
+    "sector": [
+      "FinTech",
+      "Mobile Payments"
+    ],
+    "funding": [
+      "Accel",
+      "$27M Series B in 2020",
+      "$400M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://juspay.in/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fabhotels",
+    "name": "FabHotels",
+    "sector": [
+      "Travel",
+      "Hotels Aggregator"
+    ],
+    "funding": [
+      "Accel",
+      "$41M Series B in 2020",
+      "$120M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.fabhotels.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "glowroad",
+    "name": "GlowRoad",
+    "sector": [
+      "E-Commerce",
+      "Retail"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $7M in 2020",
+      "$75M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.GlowRoad.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "mihup",
+    "name": "Mihup",
+    "sector": [
+      "Artificial Intelligence",
+      "Speech Recognition"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series A in 2020"
+    ],
+    "hq": "Kolkata, India",
+    "website": "http://www.mihup.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cureskin",
+    "name": "Cureskin",
+    "sector": [
+      "Skin Care",
+      "Artificial Intelligence"
+    ],
+    "funding": [
+      "Y Combinator",
+      "Raised $500K in 2020"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://cureskin.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "groww",
+    "name": "Groww",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$36M Series C in 2020"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://groww.in?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "godutch",
+    "name": "goDutch",
+    "sector": [
+      "FinTech",
+      "Split Payments",
+      "App"
+    ],
+    "funding": [
+      "Y Combinator",
+      "Raised $2M in 2020"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://godutchpay.in/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "infeedo",
+    "name": "inFeedo",
+    "sector": [
+      "SaaS",
+      "Employee Engagement",
+      "Analytics",
+      "Enterprise Software"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$4M Series A in 2020"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.infeedo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "wareiq",
+    "name": "WareIQ",
+    "sector": [
+      "",
+      "Logistics",
+      "Supply Chain",
+      "Delivery"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$2M Seed in 2020"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.wareiq.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "traveltriangle",
+    "name": "TravelTriangle",
+    "sector": [
+      "Travel"
+    ],
+    "funding": [
+      "Bessemer",
+      "$48M Series D in 2020",
+      "$94M valuation"
+    ],
+    "hq": "New Delhi, India",
+    "website": "http://traveltriangle.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "docsapp",
+    "name": "DocsApp",
+    "sector": [
+      "Healthcare"
+    ],
+    "funding": [
+      "Bessemer",
+      "$20M Series B in 2020",
+      "$150M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.docsapp.in/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "zoomcar",
+    "name": "ZoomCar",
+    "sector": [
+      "Car Rental"
+    ],
+    "funding": [
+      "Sequoia",
+      "$122M Series D in 2020"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.zoomcar.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "practo",
+    "name": "Practo",
+    "sector": [
+      "Healthcare"
+    ],
+    "funding": [
+      "Sequoia",
+      "$32M Series D in 2020",
+      "$300M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.practo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rebel-foods",
+    "name": "Rebel Foods",
+    "sector": [
+      "Food & Drinks",
+      "Delivery",
+      ""
+    ],
+    "funding": [
+      "Sequoia",
+      "$175M Series E in 2020",
+      "$1.0B valuation"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.faasos.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "medgenome",
+    "name": "MedGenome",
+    "sector": [
+      "Healthcare",
+      "Biotech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$55M Series C in 2020",
+      "$95M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.medgenome.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "awfis-space-solution",
+    "name": "Awfis Space Solution",
+    "sector": [
+      "Real Estate",
+      "Co-Working"
+    ],
+    "funding": [
+      "Sequoia",
+      "$30M Series D in 2020",
+      "$390M valuation"
+    ],
+    "hq": "New Delhi, India",
+    "website": "http://www.awfis.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "epifi",
+    "name": "epiFi",
+    "sector": [
+      "",
+      "FinTech",
+      ""
+    ],
+    "funding": [
+      "Sequoia",
+      "$13M Seed in 2020",
+      "$165M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://epifi.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "bira-91",
+    "name": "Bira 91",
+    "sector": [
+      "Food & Drinks",
+      "WineAndSpirits",
+      "Beer"
+    ],
+    "funding": [
+      "Sequoia",
+      "$30M Series C in 2020",
+      "$300M valuation"
+    ],
+    "hq": "New Delhi, India",
+    "website": "http://www.bira91.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "eduvanz",
+    "name": "Eduvanz",
+    "sector": [
+      "FinTech",
+      "Lending",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$14M Series B in 2020",
+      "$70M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://eduvanz.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "bookmyshow",
+    "name": "BookMyShow",
+    "sector": [
+      "E-Commerce",
+      "",
+      "Marketplaces",
+      "Auctions",
+      "Events",
+      "Ticketing"
+    ],
+    "funding": [
+      "Accel",
+      "$224M Series D in 2019",
+      "$1.0B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://in.bookmyshow.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "healthkart",
+    "name": "HealthKart",
+    "sector": [
+      "E-Commerce",
+      "Fitness"
+    ],
+    "funding": [
+      "Sequoia",
+      "$25M Series G in 2019",
+      "$300M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://www.healthkart.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "power2sme",
+    "name": "Power2SME",
+    "sector": [
+      "Enterprise Software",
+      "Small & Medium Businesses",
+      "E-Commerce"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $67M in 2018"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.Power2SME.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "hotelogix",
+    "name": "Hotelogix",
+    "sector": [
+      "Travel",
+      "Hotels",
+      "SaaS"
+    ],
+    "funding": [
+      "Accel",
+      "Raised $8M in 2018"
+    ],
+    "hq": "Noida, India",
+    "website": "http://www.hotelogix.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "drivezy",
+    "name": "Drivezy",
+    "sector": [
+      "Transportation",
+      "Vehicles",
+      "Rental"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$36M Series B in 2018",
+      "$400M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://drivezy.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "credy",
+    "name": "Credy",
+    "sector": [
+      "FinTech",
+      "",
+      "Lending"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "Y Combinator",
+      "$1M Seed in 2018"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.credy.in?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "girnarsoft",
+    "name": "GirnarSoft",
+    "sector": [
+      "Enterprise Software",
+      "Developer Tools"
+    ],
+    "funding": [
+      "Sequoia",
+      "$80M Series D in 2018"
+    ],
+    "hq": "Jaipur, India",
+    "website": "http://www.girnarsez.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "wicked-ride",
+    "name": "Wicked Ride",
+    "sector": [
+      "Rental"
+    ],
+    "funding": [
+      "Sequoia",
+      "$100M Series D in 2018",
+      "$450M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://wickedride.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "factordaily",
+    "name": "FactorDaily",
+    "sector": [
+      "Media",
+      ""
+    ],
+    "funding": [
+      "Accel",
+      "Raised $1M in 2016"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.factordaily.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "kredx",
+    "name": "KredX",
+    "sector": [
+      "FinTech",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "$7M Series A in 2016",
+      "$26M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.kredx.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "sector": [
+      "FinTech",
+      "",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "sector": [
+      "",
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "sector": [
+      "E-Commerce",
+      "",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "",
+      "Software",
+      ""
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "sector": [
+      "FinTech",
+      "",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "sector": [
+      "",
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "sector": [
+      "E-Commerce",
+      "",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "",
+      "Software",
+      ""
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "sector": [
+      "FinTech",
+      "",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "sector": [
+      "",
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "sector": [
+      "E-Commerce",
+      "",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "",
+      "Software",
+      ""
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "sector": [
+      "FinTech",
+      "",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "sector": [
+      "",
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "sector": [
+      "E-Commerce",
+      "",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "",
+      "Software",
+      ""
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "sector": [
+      "FinTech",
+      "",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "sector": [
+      "",
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "sector": [
+      "E-Commerce",
+      "",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "",
+      "Software",
+      ""
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "sector": [
+      "FinTech",
+      "",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "sector": [
+      "",
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "sector": [
+      "E-Commerce",
+      "",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "increff",
+    "name": "INCREFF",
+    "sector": [
+      "Fashion",
+      "Supply Chain Management"
+    ],
+    "funding": [
+      "Sequoia",
+      "$12M Series B in 2022",
+      "$73M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://increff.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "swiggy",
+    "name": "Swiggy",
+    "sector": [
+      "Food & Drinks",
+      "Delivery"
+    ],
+    "funding": [
+      "Bessemer",
+      "Accel",
+      "Raised $700M in 2022",
+      "$10.7B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.swiggy.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "bluestone.com",
+    "name": "BlueStone.com",
+    "sector": [
+      "E-Commerce",
+      "Jewelry"
+    ],
+    "funding": [
+      "Accel",
+      "$30M Series E in 2022",
+      "$410M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.bluestone.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "razorpay",
+    "name": "Razorpay",
+    "sector": [
+      "FinTech",
+      "Payments",
+      "",
+      "Software",
+      ""
+    ],
+    "funding": [
+      "Y Combinator",
+      "$375M Series F in 2021",
+      "$7.5B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.razorpay.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "pristyn-care",
+    "name": "Pristyn Care",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Sequoia",
+      "$96M Series E in 2021",
+      "$1.4B valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "https://www.pristyncare.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rentomojo",
+    "name": "Rentomojo",
+    "sector": [
+      "SaaS",
+      "Rental",
+      "Furniture"
+    ],
+    "funding": [
+      "Accel",
+      "$2M Series D in 2021",
+      "$66M valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.rentomojo.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "myglamm",
+    "name": "MyGlamm",
+    "sector": [
+      "E-Commerce",
+      "Marketplaces",
+      "Beauty"
+    ],
+    "funding": [
+      "Bessemer",
+      "$150M Series D in 2021",
+      "$1.2B valuation"
+    ],
+    "hq": "Mumbai, India",
+    "website": "http://www.myglamm.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "scripbox",
+    "name": "Scripbox",
+    "sector": [
+      "FinTech",
+      "Investment"
+    ],
+    "funding": [
+      "Accel",
+      "$10M Series D in 2021"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://scripbox.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "lokal",
+    "name": "Lokal",
+    "sector": [
+      "Consumer",
+      "Apps",
+      "Social Media"
+    ],
+    "funding": [
+      "Y Combinator",
+      "$12M Series A in 2021"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://getlokalapp.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "coinswitch",
+    "name": "CoinSwitch",
+    "sector": [
+      "Crypto",
+      "Trading"
+    ],
+    "funding": [
+      "Andreessen Horowitz",
+      "$260M Series C in 2021",
+      "$1.9B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://coinswitch.co/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "get-newly-funded-startups-delivered-to-you-weekly",
+    "name": "Get newly funded startups delivered to you weekly",
+    "sector": [],
+    "funding": [],
+    "hq": "",
+    "website": "",
+    "description": ""
+  },
+  {
+    "slug": "innoviti-solutions",
+    "name": "Innoviti Solutions",
+    "sector": [
+      "FinTech",
+      "Payments"
+    ],
+    "funding": [
+      "Bessemer",
+      "$10M Series E in 2024",
+      "$177M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.innoviti.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "rupeek",
+    "name": "Rupeek",
+    "sector": [
+      "FinTech",
+      "",
+      "Lending"
+    ],
+    "funding": [
+      "Sequoia",
+      "Accel",
+      "$16M Series E in 2022",
+      "$634M valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://rupeek.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "cuemath",
+    "name": "Cuemath",
+    "sector": [
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$57M Series D in 2022",
+      "$407M valuation"
+    ],
+    "hq": "Bengaluru, India",
+    "website": "http://www.cuemath.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "fashinza",
+    "name": "Fashinza",
+    "sector": [
+      "Fashion",
+      "E-Commerce",
+      "",
+      "Marketplaces"
+    ],
+    "funding": [
+      "Accel",
+      "$60M Series B in 2022",
+      "$45M valuation"
+    ],
+    "hq": "Gurgaon, India",
+    "website": "http://fashinza.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "loop-health",
+    "name": "Loop Health",
+    "sector": [
+      "Healthcare",
+      "Medical"
+    ],
+    "funding": [
+      "Khosla Ventures",
+      "$25M Series B in 2022"
+    ],
+    "hq": "Pune, India",
+    "website": "http://www.loophealth.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "byjus",
+    "name": "Byjus",
+    "sector": [
+      "",
+      "Apps",
+      "EdTech"
+    ],
+    "funding": [
+      "Sequoia",
+      "$800M Series F in 2022",
+      "$22.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://byjus.com/?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "perfios",
+    "name": "Perfios",
+    "sector": [
+      "FinTech"
+    ],
+    "funding": [
+      "Bessemer",
+      "$70M Series C in 2022",
+      "$2.0B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.perfios.com?utm_source=topstartups.io",
+    "description": ""
+  },
+  {
+    "slug": "livspace",
+    "name": "Livspace",
+    "sector": [
+      "E-Commerce",
+      "",
+      "Interior Design",
+      "Decor"
+    ],
+    "funding": [
+      "Bessemer",
+      "$180M Series F in 2022",
+      "$1.2B valuation"
+    ],
+    "hq": "Bangalore, India",
+    "website": "http://www.livspace.com?utm_source=topstartups.io",
+    "description": ""
+  }
+]
