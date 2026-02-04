@@ -1,4 +1,4 @@
-﻿# RaftLab Assignment
+# RaftLab Assignment
 
 Lightweight Next.js app and companion Python scripts for exploring and preparing startup data used in the RaftLab assignment.
 
